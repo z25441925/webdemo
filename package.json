@@ -1,0 +1,16 @@
+{
+  "name": "web-service-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "demo web service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
